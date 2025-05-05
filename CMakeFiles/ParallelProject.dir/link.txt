@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/ParallelProject.dir/link.d CMakeFiles/ParallelProject.dir/src/game_simulation.cpp.o CMakeFiles/ParallelProject.dir/src/main.cpp.o CMakeFiles/ParallelProject.dir/src/network.cpp.o -o build/ParallelProject  /usr/lib/gcc/x86_64-linux-gnu/14/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a

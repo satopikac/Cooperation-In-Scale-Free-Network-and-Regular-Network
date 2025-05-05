@@ -1,0 +1,5 @@
+/home/mei123/workspace/self-project/group_intelligence/project/CMakeFiles/ParallelProject.dir
+/home/mei123/workspace/self-project/group_intelligence/project/CMakeFiles/run.dir
+/home/mei123/workspace/self-project/group_intelligence/project/CMakeFiles/clean_all.dir
+/home/mei123/workspace/self-project/group_intelligence/project/CMakeFiles/edit_cache.dir
+/home/mei123/workspace/self-project/group_intelligence/project/CMakeFiles/rebuild_cache.dir
