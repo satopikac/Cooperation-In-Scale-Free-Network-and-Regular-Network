@@ -3,7 +3,7 @@
 #include <fstream>
 #include <vector>
 #include "game_simulation.h"
-
+//
 // 模拟参数
 const int allgenerations = 4000;
 const int thetransient = 3000;
