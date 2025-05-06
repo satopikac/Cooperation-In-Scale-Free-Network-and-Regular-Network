@@ -7,3 +7,4 @@ pip install matplotlib numpy pandas
 ```
 
 Please create right python environment before running it.
+Put all data files and this script together in the same folder.
