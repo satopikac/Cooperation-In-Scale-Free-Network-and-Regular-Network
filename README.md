@@ -6,6 +6,8 @@ This project serves as a possible version of homework of the course Group Intell
 
 The folder "src" stores cpp source file,and folder "include" stores all head files to be used.The MakeFile and CMakeLists.txt also are provided,so you can run it in different platforms,include Linux(recommended) and Windows.The results of the compilation exists in the build folder.
 
-All people are allowed to use and share this project.Thanks for watching.
+To visualize the data we get, I also provide the python script to show the graph and it's stored in the folder "scripts".
+
+.All people are allowed to use and share this project.Thanks for watching.
 
 --By satopikac,2025,05,05
