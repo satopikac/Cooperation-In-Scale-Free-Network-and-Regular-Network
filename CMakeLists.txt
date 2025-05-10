@@ -8,7 +8,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 # 添加编译选项
 add_compile_options(-O3 -Wall -Wextra -Wno-free-nonheap-object)
-
+#使用Visual Studio编译运行项目时 删掉上面 -Wextra -Wno-free-nonheap-object
 # 查找 OpenMP
 find_package(OpenMP REQUIRED)
 
